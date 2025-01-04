@@ -1,0 +1,4 @@
+baseURL = 'https://nikitasavc.space'
+title = 'Nikita Savchenko Website'
+theme = 'blowfish'
+defaultContentLanguage = 'en'

@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+
+[params.author]
+name = "Nikita Savchenko (NikitaSavc)"
+image = "img/author.jpg"
+headline = "Web / Android / JavaScript / C++ Developer"
+bio = "15"
+links = [
+  { github = "https://github.com/NikitaSavc" },
+  { telegram = "https://t.me/NikitaSavc" },
+  { email = "mailto:NikitaSavc@yandex.ru" }
+]
